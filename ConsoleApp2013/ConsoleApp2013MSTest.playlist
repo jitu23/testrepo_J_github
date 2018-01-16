@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="ConsoleApp2013Test.TestCalculation.TestEmptyEntry" /><Add Test="ConsoleApp2013Test.TestCalculation.TestNumbers" /><Add Test="ConsoleApp2013Test.TestCalculation.TestAddition" /></Playlist>
